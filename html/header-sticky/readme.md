@@ -1,0 +1,1 @@
+This's an adaptation from the original article in http://www.webdesignerdepot.com/2014/05/how-to-create-an-animated-sticky-header-with-css3-and-jquery/ write by Sara Vieira

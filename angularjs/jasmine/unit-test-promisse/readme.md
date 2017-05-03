@@ -1,0 +1,1 @@
+http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/
